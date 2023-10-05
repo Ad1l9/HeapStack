@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapStack", "HeapStack\HeapStack.csproj", "{CD7AC4B4-7A30-400F-A285-E781F1454A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7AC4B4-7A30-400F-A285-E781F1454A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7AC4B4-7A30-400F-A285-E781F1454A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7AC4B4-7A30-400F-A285-E781F1454A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7AC4B4-7A30-400F-A285-E781F1454A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F775206-956D-4E31-9FC6-6A08FD82223A}
+	EndGlobalSection
+EndGlobal
